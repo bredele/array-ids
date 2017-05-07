@@ -5,7 +5,7 @@
 [![Downloads](https://img.shields.io/npm/dm/array-ids.svg?style=flat-square)](http://npm-stat.com/charts.html?package=array-ids)
 [![pledge](https://bredele.github.io/contributing-guide/community-pledge.svg)](https://github.com/bredele/contributing-guide/blob/master/community.md)
 
-Generate an array where each item in the array contains its own index in the array
+Generate an array where each item in the array contains its own index in the array. Useful for testing and to quickly mock database rows. 
 
 
 ## Usage
