@@ -1,0 +1,30 @@
+{
+  "name": "array-ids",
+  "version": "1.0.0",
+  "description": "Generate an array of ordered indexes",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bredele/array-ids.git"
+  },
+  "keywords": [
+    "array",
+    "ids",
+    "index"
+  ],
+  "author": "Olvier <olivier.wietrich@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/array-ids/issues"
+  },
+  "homepage": "https://github.com/bredele/array-ids#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
